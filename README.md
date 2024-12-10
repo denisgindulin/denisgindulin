@@ -6,7 +6,7 @@
 ## iOS developer
 - ⚡ Participating in team projects, solving kata on CodeWars
 - 🤝 Open for collaborations
-- 💞️ And I’m lovin' SwiftUI
+- ❤️ And I’m lovin' SwiftUI
 
 <p align="left" >  
  <a href="https://github.com/anuraghazra/github-readme-stats"> 
