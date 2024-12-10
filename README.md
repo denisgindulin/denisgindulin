@@ -8,6 +8,23 @@
 - 🤝 Open for collaborations
 - ❤️ And I’m lovin' SwiftUI <img src="https://github.com/user-attachments/assets/20a99f81-3a27-4683-92fe-6a3bcd51a15d" width="20px"/>
 
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="40" alt="swift logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"/>        
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo"/>        
+  <img width="12" />
+</div>
+
+###
 
 <p align="left" >  
  <a href="https://github.com/anuraghazra/github-readme-stats"> 
