@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 My Technology Stack:</h3>
 
 ###
 <div align="left">
