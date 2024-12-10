@@ -30,8 +30,6 @@
   <img width="12" />
 </div>
 
-https://git-fork.com/images/logo.png
-
 ###
 
 <p align="left" >  
