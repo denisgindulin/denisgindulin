@@ -1,5 +1,5 @@
 <h1>
-  Hi, I'm Denis
+  Hi there, I'm Denis
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
