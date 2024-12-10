@@ -22,7 +22,7 @@
 ###
 ###
 
-<h3 align="left">🛠 Technology & Tools Stack:</h3>
+<h3 align="left">🛠 Technologies & Tools Stack:</h3>
 
 ###
 <div align="left">
