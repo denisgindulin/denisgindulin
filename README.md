@@ -9,7 +9,7 @@
 ###
 
 - ⚡ Participating in team projects, solving kata on CodeWars
-- ❤️ And I’m lovin' SwiftUI <img src="https://github.com/user-attachments/assets/20a99f81-3a27-4683-92fe-6a3bcd51a15d" width="20px"/>
+- ❤️ And I’m lovin' SwiftUI
 - 🤝 Open for collaborations
 
 <div align="left">
