@@ -9,8 +9,14 @@
 ###
 
 - ⚡ Participating in team projects, solving kata on CodeWars
-- 🤝 Open for collaborations
 - ❤️ And I’m lovin' SwiftUI <img src="https://github.com/user-attachments/assets/20a99f81-3a27-4683-92fe-6a3bcd51a15d" width="20px"/>
+- 🤝 Open for collaborations
+
+<div align="left">
+  <a href="https://t.me/denisgindulin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
 ###
 ###
