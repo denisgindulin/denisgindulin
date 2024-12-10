@@ -6,8 +6,8 @@
 ## iOS developer
 - ⚡ Participating in team projects, solving kata on CodeWars
 - 🤝 Open for collaborations
-- ❤️ And I’m lovin' SwiftUI
-<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://github.com/user-attachments/assets/03d8f260-d417-4048-932a-847f3f4b8ab7" width="30px"/>
+- ❤️ And I’m lovin' SwiftUI ![image](https://github.com/user-attachments/assets/20a99f81-3a27-4683-92fe-6a3bcd51a15d)
+
 
 
 <p align="left" >  
