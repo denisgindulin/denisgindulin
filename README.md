@@ -18,11 +18,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="50" alt="xcode logo"/> 
   <img width="12" />
-  <!-- swiftui -->
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" height="50"/>
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" height="50" alt="swiftui logo"/>
    <img width="12" />
-  <!-- swiftdata -->
-  <img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" width="50" height="50"/>
+  <img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" height="50" alt="wiftdata logo"/>
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="git logo"/>
   <img width="12" />
