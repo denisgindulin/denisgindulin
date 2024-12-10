@@ -4,6 +4,10 @@
 </h1>
 
 ## iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> and person, passionate about mobile interfaces
+###
+###
+###
+
 - ⚡ Participating in team projects, solving kata on CodeWars
 - 🤝 Open for collaborations
 - ❤️ And I’m lovin' SwiftUI <img src="https://github.com/user-attachments/assets/20a99f81-3a27-4683-92fe-6a3bcd51a15d" width="20px"/>
